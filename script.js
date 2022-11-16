@@ -33,8 +33,8 @@ setTimeout(()=>{
                         setTimeout(()=>{
                          document.getElementById("demo").innerHTML="Happy New Year!";
                      
-                        },11000);
-                      },10000);
+                        },1100);
+                      },1000);
                     },900);
                   },800);
                 },700);
